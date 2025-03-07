@@ -1,5 +1,4 @@
-// App.jsx
-import './App.scss';
+// App.jsx 
 import HeaderComponent from './components/Header/header';
 import Content1Component from './components/Content1/content1';
 import { Content2 } from './components/Content2/content2';
